@@ -20,23 +20,25 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Título do Projeto: Não é um bicho de sete cabeças. 
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Um tutorial sobre como baixar os aplicativos da caixa sem mistérios. 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT. 
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O processo foi totalmente inspirado nos atendimentos reais do dia a dia. Pedi no meu prompt que criasse um tutorial para instalação dos aplicativos da Caixa, de forma que até o cliente mais simples pudesse entender. 
+
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Bem didátivo e divertido. Representou bem, além de explicar sobre as funcionalidades de cada um dos aplicativos. +
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+As tecnologias não podem ser um bicho de sete cabeças. Muitos clientes que atendemos ainda possuem uma certa resistências com as inovações. Mas, com escuta ativa, paciência e respeito, vamos conquistando a confiança dos clientes para que possamos oferecer soluções mais ágeis para o seu dia a dia. 
+
 
 ### Exemplos e Insigths
 
