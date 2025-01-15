@@ -2,7 +2,7 @@
 
 
 ## 📒 Descrição
-Um breve anuncio comentando a volta dos poupançudos da Caixa. 
+Projeto para o desafio "Natural ou Fake Natty"? Trazendo um breve anuncio comentando a volta dos poupançudos da Caixa. 
 
 
 ## 🤖 Tecnologias Utilizadas
@@ -33,6 +33,7 @@ Pra mim foi desafiante criar o avatar, mas depois que você deixa a resistência
 
 
 ## Links Interessantes
+https://www.canva.com/
 https://caixanoticias.caixa.gov.br/Paginas/Not%C3%ADcias/2024/11-NOVEMBRO/Os-Poupancudos-da-CAIXA-estao-de-volta.aspx#:~:text=A%20CAIXA%20traz%20de%20volta,%2Dfeira%20(18)%E2%80%8B.
 
 
