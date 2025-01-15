@@ -1,53 +1,38 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Título do Projeto: Os poupançudos voltaram!!!
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto: Não é um bicho de sete cabeças. 
 
 ## 📒 Descrição
-Um tutorial sobre como baixar os aplicativos da caixa sem mistérios. 
+Um breve anuncio comentando a volta dos poupançudos da Caixa. 
+
 
 ## 🤖 Tecnologias Utilizadas
-ChatGPT. 
+
+- Canva
+- D-id
+- Malchimp
+
 
 ## 🧐 Processo de Criação
-O processo foi totalmente inspirado nos atendimentos reais do dia a dia. Pedi no meu prompt que criasse um tutorial para instalação dos aplicativos da Caixa, de forma que até o cliente mais simples pudesse entender. 
+
+Criei o texto no clipchamp, e gerei o audio. Baixei e levei pro canva, e adicionei junto ao avatar pra gerar o vídeo. 
+Para criar o avatar fui no app "mídias mágicas", dentro do canva e pedi "mulher bancária com sorriso simpático", que é o que mais parece comigo! 😁
+Por fim, dentro do próprio canva, selecionei o app D-id, e juntei o áudio com o avatar, e VOILÁ!
 
 
 ## 🚀 Resultados
-Bem didátivo e divertido. Representou bem, além de explicar sobre as funcionalidades de cada um dos aplicativos. +
+
+Como resultado, temos um vídeo de 29s, onde me apresento e comnto a volta dos poupançudos, que irei comentar melhor no desafio do podcast.
+
+https://github.com/user-attachments/assets/32f61ee3-3145-47b0-a369-f99b1fdb6ad0
+
 
 
 ## 💭 Reflexão (Opcional)
-As tecnologias não podem ser um bicho de sete cabeças. Muitos clientes que atendemos ainda possuem uma certa resistências com as inovações. Mas, com escuta ativa, paciência e respeito, vamos conquistando a confiança dos clientes para que possamos oferecer soluções mais ágeis para o seu dia a dia. 
+Pra mim foi desafiante criar o avatar, mas depois que você deixa a resistência de lado, e se permite aprender algo novo, tudo fica mais fácil. E resolvi trazer a volta dos poupançudos como forma de resgatar a importância de poupar. 
 
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
 ## Links Interessantes
+https://caixanoticias.caixa.gov.br/Paginas/Not%C3%ADcias/2024/11-NOVEMBRO/Os-Poupancudos-da-CAIXA-estao-de-volta.aspx#:~:text=A%20CAIXA%20traz%20de%20volta,%2Dfeira%20(18)%E2%80%8B.
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
